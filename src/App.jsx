@@ -2,7 +2,7 @@ function App() {
 
   return (
     <div className="flex flex-col items-center px-6 md:px-0">
-      <h1 className="text-3xl md:text-6xl font-bold border border-sky-600 border-8 text-center p-3 md:p-6 rounded-3 mt-5">
+      <h1 className="text-3xl md:text-6xl font-bold border border-sky-600 border-8 text-center p-3 md:p-6 rounded-3xl mt-5">
         Adrian Juarez - Web Developer
       </h1>
       <div className="my-10">
